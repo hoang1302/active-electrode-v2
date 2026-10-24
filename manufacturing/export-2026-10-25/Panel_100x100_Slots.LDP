@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Electrode_V2\Panel_100x100_Slots.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=panel_100x100_slots-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=panel_100x100_slots-slotholes-nonplated.txt|DrillLayers=gtl,gbl

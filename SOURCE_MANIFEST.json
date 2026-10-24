@@ -1,0 +1,209 @@
+{
+  "snapshot_date": "2026-10-25",
+  "files": [
+    {
+      "path": "Electrode_35x25_4x5_D2/Electrode_35x25_4x5_D2.PcbDoc",
+      "sha256": "1094c24267168867fbbc508f7f704b0e4f1ad5c82b630769f4bbd5c6a78300a0"
+    },
+    {
+      "path": "Electrode_35x25_4x5_D2/Electrode_35x25_4x5_D2.PrjPcb",
+      "sha256": "de1f1c08f834cd56a2db5fc405c1ec947d2ea68f1edf323df72de205ea0336f8"
+    },
+    {
+      "path": "Electrode_35x25_4x5_D2/Electrode_35x25_4x5_D2.SchDoc",
+      "sha256": "2d08c023c53ce2d1820a25f9ee2e4ae2efdb69e06e51de48abe99e6ceb7041ae"
+    },
+    {
+      "path": "Electrode_35x25_4x5_D2/Electrode_35x25_4x5_D2.PcbLib",
+      "sha256": "b426233deece07edcbc8f2f0ca2090dde3b91d347bf93603d372b1d4eb01ec28"
+    },
+    {
+      "path": "Electrode_35x25_4x5_D2/Electrode_35x25_4x5_D2.SchLib",
+      "sha256": "fc70299d4d048928a9592e32f040bee29b933eadb9eed857b83d9f93d5f0ea09"
+    },
+    {
+      "path": "Electrode_35x25_4x5_D2/Electrode_35x25_4x5_D2.pdf",
+      "sha256": "7abece0694ac10bd97c5602f4d8535508e2afb7e221f2f329b2753a38c0f6b89"
+    },
+    {
+      "path": "Electrode_35x25_4x5_D2_GUARD/Electrode_35x25_4x5_D2_GUARD.PcbDoc",
+      "sha256": "d7bf611025f68a9c0879e32babca2b81dea9548d8290b9ce9c50b59f4393c2fb"
+    },
+    {
+      "path": "Electrode_35x25_4x5_D2_GUARD/Electrode_35x25_4x5_D2_GUARD.PrjPcb",
+      "sha256": "ba561f538f6209e11fe26971cc2294077e0499eee11c4c8c4851400a05545070"
+    },
+    {
+      "path": "Electrode_35x25_4x5_D2_GUARD/Electrode_35x25_4x5_D2_GUARD.SchDoc",
+      "sha256": "2d08c023c53ce2d1820a25f9ee2e4ae2efdb69e06e51de48abe99e6ceb7041ae"
+    },
+    {
+      "path": "Electrode_35x25_4x5_D2_GUARD/Electrode_35x25_4x5_D2_GUARD.PcbLib",
+      "sha256": "b426233deece07edcbc8f2f0ca2090dde3b91d347bf93603d372b1d4eb01ec28"
+    },
+    {
+      "path": "Electrode_35x25_4x5_D2_GUARD/Electrode_35x25_4x5_D2_GUARD.SchLib",
+      "sha256": "fc70299d4d048928a9592e32f040bee29b933eadb9eed857b83d9f93d5f0ea09"
+    },
+    {
+      "path": "Electrode_35x25_4x5_D2_GUARD/Electrode_35x25_4x5_D2_GUARD.pdf",
+      "sha256": "7abece0694ac10bd97c5602f4d8535508e2afb7e221f2f329b2753a38c0f6b89"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2/Electrode_35x30_5x6_D2.PcbDoc",
+      "sha256": "e996e2fcd17483316b03e7ea040336ff065d4f8487376a2af2b0e6408b2e4fb8"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2/Electrode_35x30_5x6_D2.PrjPcb",
+      "sha256": "00cc3b6e5a3bba783062490ae9e042622c935bd4770cd7bb449684e76cbe8a80"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2/Electrode_35x30_5x6_D2.SchDoc",
+      "sha256": "967a00bee6b62efd0eb568aaf866690d724d2b5be17762a9f8648da6aa42a420"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2/Electrode_35x30_5x6_D2.PcbLib",
+      "sha256": "b426233deece07edcbc8f2f0ca2090dde3b91d347bf93603d372b1d4eb01ec28"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2/Electrode_35x30_5x6_D2.SchLib",
+      "sha256": "fc70299d4d048928a9592e32f040bee29b933eadb9eed857b83d9f93d5f0ea09"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2/Electrode_35x30_5x6_D2.pdf",
+      "sha256": "7abece0694ac10bd97c5602f4d8535508e2afb7e221f2f329b2753a38c0f6b89"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2p5/Electrode_35x30_5x6_D2p5.PcbDoc",
+      "sha256": "08acde7de6c42b3dafa308481bd82a024f35e86338155c819329426130a51c56"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2p5/Electrode_35x30_5x6_D2p5.PrjPcb",
+      "sha256": "c118e11276bf6a24d2444ba7ee1d5eed15ecc3b03ce2c513a92c6f2c049ef150"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2p5/Electrode_35x30_5x6_D2p5.SchDoc",
+      "sha256": "29f901ab33e2fff4d108f65abe97b4e3ee8b2a864982c670ed962115eda6779d"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2p5/Electrode_35x30_5x6_D2p5.PcbLib",
+      "sha256": "b426233deece07edcbc8f2f0ca2090dde3b91d347bf93603d372b1d4eb01ec28"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2p5/Electrode_35x30_5x6_D2p5.SchLib",
+      "sha256": "fc70299d4d048928a9592e32f040bee29b933eadb9eed857b83d9f93d5f0ea09"
+    },
+    {
+      "path": "Electrode_35x30_5x6_D2p5/Electrode_35x30_5x6_D2p5.pdf",
+      "sha256": "7abece0694ac10bd97c5602f4d8535508e2afb7e221f2f329b2753a38c0f6b89"
+    },
+    {
+      "path": "Electrode_Flat_25x20/Electrode_Flat_25x20.PcbDoc",
+      "sha256": "6f62c32e132bbcf7137b118186fcdccdfdde5cb4d6dd672c343d837cd38c721d"
+    },
+    {
+      "path": "Electrode_Flat_25x20/Electrode_Flat_25x20.PrjPcb",
+      "sha256": "ee33f817cd99e8408b26ada4a7562d1ab445c90d756da5efe955d94f6ce0e454"
+    },
+    {
+      "path": "Electrode_Flat_25x20/Electrode_Flat_25x20.SchDoc",
+      "sha256": "2d08c023c53ce2d1820a25f9ee2e4ae2efdb69e06e51de48abe99e6ceb7041ae"
+    },
+    {
+      "path": "Electrode_Flat_25x20/Electrode_Flat_25x20.PcbLib",
+      "sha256": "b426233deece07edcbc8f2f0ca2090dde3b91d347bf93603d372b1d4eb01ec28"
+    },
+    {
+      "path": "Electrode_Flat_25x20/Electrode_Flat_25x20.SchLib",
+      "sha256": "fc70299d4d048928a9592e32f040bee29b933eadb9eed857b83d9f93d5f0ea09"
+    },
+    {
+      "path": "Electrode_Flat_25x20/Electrode_Flat_25x20.pdf",
+      "sha256": "7abece0694ac10bd97c5602f4d8535508e2afb7e221f2f329b2753a38c0f6b89"
+    },
+    {
+      "path": "Panel_100x100_Slots.PcbDoc",
+      "sha256": "6fcf684f381bd99029fbefe11c1bf6273f5723f8b10367496b8d5c62c7d40246"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots-macro.APR_LIB",
+      "sha256": "1c24c974b07fc7fb0457db0694d08bc716428f04e6872097b6d4819ca7985df3"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots-RoundHoles-Plated.TXT",
+      "sha256": "ba97fe168c8d58c3a9fdd713e704e0b8db1debde8c77e33bf9661ab1f3265e86"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots-SlotHoles-NonPlated.TXT",
+      "sha256": "6eca34575002d5758ca02dd44a5c10f33cabc4203ff715b74d841b0b4bce41cb"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.apr",
+      "sha256": "fcf50904d66748541cbfdd88a4a33f1798529fcd6a75b814cba223930331ed27"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.DRR",
+      "sha256": "7b175f7343a4560af004a2cc576bcab44603e0b14b929ee7c3ac98f69d9bf2e8"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.EXTREP",
+      "sha256": "45af152ee2cf420a05f1483c919630ff4a8ec46d6aa588b921a9f7af229097b6"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.GBL",
+      "sha256": "26628366af14997bb307a3bca474ca9e88bb4a4df4135fadb7d30c014399fef2"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.GBO",
+      "sha256": "f8e97fdd6963b561ec982284dccdb23c6c53234c60a7faea58cdf27123119a7f"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.GBP",
+      "sha256": "ad1804905df938213b1e94078eeffc7c3bad794d84a83a56a1fb7a36e9a1f68d"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.GBS",
+      "sha256": "1b23df2bd7979f56a9e58405950a866029e4e5186e9a3b7366a363b0816405d8"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.GM",
+      "sha256": "91e135ffdef81712c7092fab616f77f52860cdf8efcc756c594624b0628af38c"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.GTL",
+      "sha256": "9d45548ba72c1afb5d6875ef36bc97cce4159006b094e00095c4e5170ec7835c"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.GTO",
+      "sha256": "2885fd94ecdd0b7fb5de125ff2e2392ecc293733ceee16b0756cd70dad4a068b"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.GTP",
+      "sha256": "48d77e54ba20d4da9510e68cb108f887535ebaaed964ff9af86b87ae763c33ed"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.GTS",
+      "sha256": "e5b959e2e82850c0a5535b7bbf17ec44f968a77a1bccf0d98cacba4127679c81"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.LDP",
+      "sha256": "f5b4ec62768ba0af36484f3a866b562e81e9e4ea839307a6d40552e0aadcdf73"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.REP",
+      "sha256": "2b334db8a1dc6c96a11a8083320e6c3a0da242eb4b5d2af35d0771f49c8876d8"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Panel_100x100_Slots.zip",
+      "sha256": "a10cc3573b067a93fd8b02b898c5f0f2728b6774cbb3cc8025958e04db8fb495"
+    },
+    {
+      "path": "manufacturing/export-2026-10-25/Status Report.Txt",
+      "sha256": "b688c6ce94f6af3af17378e11dae11efe9f38ec962f61f40d1284c711dbd0f36"
+    },
+    {
+      "path": "docs/gerber_overlay.png",
+      "sha256": "ad76efbee420fc79014f158248f8b98bb2b7b13c219f4223a00e767751612c4d"
+    }
+  ]
+}

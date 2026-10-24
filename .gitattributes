@@ -1,0 +1,11 @@
+* text=auto
+*.PcbDoc binary
+*.SchDoc binary
+*.PcbLib binary
+*.SchLib binary
+*.pdf binary
+*.png binary
+*.zip binary
+*.PrjPcb -text
+manufacturing/** -text
+*.md text eol=lf

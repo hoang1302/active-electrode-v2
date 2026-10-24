@@ -1,0 +1,19 @@
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+*.PrjPcbStructure
+*.LOG
+*.drc
+*.DRC
+*.bak
+*.BAK
+*.PcbDocPreview
+*.SchDocPreview
+*.Lck
+*.lck
+*.ldb
+*.tmp
+*.~*
+Thumbs.db
+Desktop.ini
